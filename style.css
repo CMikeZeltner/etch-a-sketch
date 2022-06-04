@@ -12,23 +12,15 @@ body{
     border: 1px solid black;
     display: flex;
     flex-wrap: wrap
-
-    
 }
 
 .tiles {
-
-border: 1px solid black;
-
-    
+border: 1px solid black;  
 }
-
 
 h1{
-
     font-size: 60px;
 }
-
 
 p{
     font-weight: 300;

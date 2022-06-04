@@ -14,16 +14,9 @@ createTiles = function(dimension = 16) {
         newDiv.style.width = `${800 / dimension - 2}px`
         container.appendChild(newDiv)
     }
-
     setEventListeners()
-
-
 }
 
-
-
-
-  
 setEventListeners = function(){
   const tiles = document.getElementsByClassName('tiles')
 
